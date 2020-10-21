@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "the js code should contain an assignment line using body.innerHTML",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line insert an IMG with innerHTML",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line insert an H1 with innerHTML",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

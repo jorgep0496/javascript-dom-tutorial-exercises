@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should use the querySelector to select the element with #id mySelect",
+      "status": "passed"
+    },
+    {
+      "title": "You should create an element (\"option\")",
+      "status": "passed"
+    },
+    {
+      "title": "You should append all the countries you created, to #mySelect element",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you add li to list",
+      "status": "passed"
+    },
+    {
+      "title": "You should use addEventListener",
+      "status": "passed"
+    },
+    {
+      "title": "You should use an alert to print the selected country.",
+      "status": "passed"
+    }
+  ]
+}

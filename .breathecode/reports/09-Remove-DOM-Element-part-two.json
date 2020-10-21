@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should use the querySelector to select the element with #id parentLI",
+      "status": "passed"
+    },
+    {
+      "title": "You have to use the childNodes property.",
+      "status": "passed"
+    },
+    {
+      "title": "You have to use the removeChild property.",
+      "status": "passed"
+    },
+    {
+      "title": "You need to delete the correct element.",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

@@ -25,7 +25,7 @@ test('You should create an element ("option")', function () {
 
 test('You should append all the countries you created, to #mySelect element', function () {
     document.documentElement.innerHTML = html.toString();
-    const expected = 'document.querySelector("#mySelect").appendChild';
+    const expected = 'document.querySelector("#mySelect")';
     // we can read from the source code
     console.log(js.toString());
     expect(js.toString().indexOf(expected) > -1).toBeTruthy();

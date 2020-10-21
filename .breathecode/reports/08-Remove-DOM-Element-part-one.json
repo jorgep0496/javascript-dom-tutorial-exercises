@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The function removeChild must have been called with the element #secondElement",
+      "status": "passed"
+    },
+    {
+      "title": "You should use the removeChild function",
+      "status": "passed"
+    },
+    {
+      "title": "The html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

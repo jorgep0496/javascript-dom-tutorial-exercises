@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "alert() function should be called with Hello World",
+      "status": "passed"
+    },
+    {
+      "title": "the background should be blue",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

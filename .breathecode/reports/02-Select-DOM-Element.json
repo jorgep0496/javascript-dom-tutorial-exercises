@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "alert() function should be called passing it the id of the h1 element",
+      "status": "passed"
+    },
+    {
+      "title": "You should use querySelector (don't use getElementById) ",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag importing index.js",
+      "status": "passed"
+    }
+  ]
+}

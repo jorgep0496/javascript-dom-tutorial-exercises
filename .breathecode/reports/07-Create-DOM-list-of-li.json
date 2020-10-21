@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The website DOM must contain 3 <li> items",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

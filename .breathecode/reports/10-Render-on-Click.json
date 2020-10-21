@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should use the querySelector to select the element with #id superDuperButton",
+      "status": "passed"
+    },
+    {
+      "title": "You should create a new \"DIV\" element",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you insert Hello Worl with innerHTML",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you change background color into yellow",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you add div into body",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}

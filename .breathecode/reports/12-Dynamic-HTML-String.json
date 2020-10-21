@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 1,
+  "numFailedTests": 2,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": "\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mthe js code should contain an assignment line allow you instance a new object from Class Date\u001b[39m\u001b[22m\n\n    \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeTruthy\u001b[2m()\u001b[22m\n\n    Received: \u001b[31mfalse\u001b[39m\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 24 | \u001b[39m    \u001b[90m// we can read from the source code\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 25 | \u001b[39m    console\u001b[33m.\u001b[39mlog(html\u001b[33m.\u001b[39mtoString())\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 26 | \u001b[39m    expect(html\u001b[33m.\u001b[39mtoString()\u001b[33m.\u001b[39mindexOf(expected) \u001b[33m>\u001b[39m \u001b[33m-\u001b[39m\u001b[35m1\u001b[39m)\u001b[33m.\u001b[39mtoBeTruthy()\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    | \u001b[39m                                                   \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 27 | \u001b[39m})\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 28 | \u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 29 | \u001b[39mtest(\u001b[32m'the js code should contain an assignment line allow you use a getFullYear() method'\u001b[39m\u001b[33m,\u001b[39m \u001b[36mfunction\u001b[39m () {\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/12-Dynamic-HTML-String/tests.js\u001b[39m\u001b[0m\u001b[2m:26:52)\u001b[2m\u001b[22m\n\n\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mthe js code should contain an assignment line allow you use a getFullYear() method\u001b[39m\u001b[22m\n\n    \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBeTruthy\u001b[2m()\u001b[22m\n\n    Received: \u001b[31mfalse\u001b[39m\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 32 | \u001b[39m    \u001b[90m// we can read from the source code\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 33 | \u001b[39m    console\u001b[33m.\u001b[39mlog(html\u001b[33m.\u001b[39mtoString())\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 34 | \u001b[39m    expect(html\u001b[33m.\u001b[39mtoString()\u001b[33m.\u001b[39mindexOf(expected) \u001b[33m>\u001b[39m \u001b[33m-\u001b[39m\u001b[35m1\u001b[39m)\u001b[33m.\u001b[39mtoBeTruthy()\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    | \u001b[39m                                                   \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 35 | \u001b[39m})\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 36 | \u001b[39mtest(\u001b[32m'You should use the document.write method'\u001b[39m\u001b[33m,\u001b[39m \u001b[36mfunction\u001b[39m () {\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 37 | \u001b[39m    document\u001b[33m.\u001b[39mdocumentElement\u001b[33m.\u001b[39minnerHTML \u001b[33m=\u001b[39m html\u001b[33m.\u001b[39mtoString()\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/12-Dynamic-HTML-String/tests.js\u001b[39m\u001b[0m\u001b[2m:34:52)\u001b[2m\u001b[22m\n"
+    }
+  ],
+  "failed": [
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you instance a new object from Class Date",
+      "status": "failed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you use a getFullYear() method",
+      "status": "failed"
+    },
+    {
+      "title": "You should use the document.write method",
+      "status": "passed"
+    }
+  ]
+}

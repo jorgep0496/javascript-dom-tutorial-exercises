@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "the js code should contain an assignment line creating element H1",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line creating text node with value \"Hello World\"",
+      "status": "passed"
+    },
+    {
+      "title": "You should create a new \"P\" element",
+      "status": "passed"
+    },
+    {
+      "title": "The new \"P\" element should contain \"Hello World\" and a \"yellow\" background.",
+      "status": "passed"
+    },
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    }
+  ]
+}
